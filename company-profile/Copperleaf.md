@@ -9,14 +9,15 @@
 
 ## Overview
 
-Copperleaf (TSX:CPLF) provides enterprise decision analytics software solutions to companies managing critical infrastructure. We leverage operational and financial data to empower our clients to make investment decisions that deliver the highest business value. What sets us apart is our industry-leading products and our commitment to providing extraordinary experiences, shaped by people who care deeply and partnerships that stand the test of time. Copperleaf is actively involved in shaping and implementing global industry standards and sustainability principles through our participation in the United Nations Global Compact, the Institute of Asset Management, and other organizations. Headquartered in Vancouver, Canada, our solutions are distributed and supported by regional staff and partners worldwide. Together, we are transforming how the world sees value.
+Copperleaf offers decision analytics software for critical infrastructure management, utilizing operational and financial data to guide high-value investment decisions. Their industry-leading solutions are recognized globally, with active roles in shaping industry standards and sustainability through participation in the UN Global Compact and the Institute of Asset Management. Specializing in Asset Investment Planning, Decision Analytics, and Portfolio Optimization, they emphasize ESG principles. Named one of Canada’s top 20 Fastest-Growing Software Companies in 2016, Copperleaf leads in asset management innovation.
 | | |  
 |---|---|
 | Key Specialties | FinTech |
 | Employee Size | 501-1,000 employees|
 | Founded | 2000 |
 | Stage of Growth | mature |
-| Ownership | public
+| Ownership | public |
+| Ticker Symbol | TSX:CPLF |
 
 ## Specialties
 
@@ -34,7 +35,9 @@ Asset Investment Planning and Management, Decision Analytics, Investment Portfol
 
 **Disclaimer**: The information in this section is contributed anonymously by community members and represents their personal experiences and opinions. It has not been verified and may not reflect the current conditions or official policies of the companies discussed. Maintainers of this project do not warrant the accuracy, reliability, or completeness of this information. Contributors are responsible for the copyright of their submissions. This information is provided "as is" and all users are advised to verify its accuracy on their own and use it at their own risk. Contributions are subject to our Contributor License Agreement (CLA).
 
-### Vancouver Office Environment
+### AI Team Overview
+
+### Office Environment
 
 ### Internship Opportunities
 
