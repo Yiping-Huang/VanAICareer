@@ -8,6 +8,10 @@ VanAICareer is an open-source repository initiated by VanAITalks, dedicated to p
 
 ### [Vancouver AI Company Map](van-ai-company-map.md)
 
+## Disclaimer
+
+The information in this project is contributed anonymously by community members and represents their personal experiences and opinions. It has not been verified and may not reflect the current conditions or official policies of the companies discussed. Maintainers of this project do not warrant the accuracy, reliability, or completeness of this information. Contributors are responsible for the copyright of their submissions. This information is provided "as is" and all users are advised to verify its accuracy on their own and use it at their own risk. Contributions are subject to our Contributor License Agreement (CLA).
+
 ## Join Our Community - [VanAITalks](https://www.linkedin.com/groups/14431785/)
 
 [VanAITalks](https://www.linkedin.com/groups/14431785/) - Top AI Community in Vancouver
